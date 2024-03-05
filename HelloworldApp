@@ -10,12 +10,14 @@ void main() {
             style:TextStyle(
               color:Colors.white,
               fontSize:20.0,
-            )),
+            ),
           ),
+        ),
       ),
     ),
   );
 }
+
 //기본적인 룰
 //home : 홈화면
 //body : 화면 body
